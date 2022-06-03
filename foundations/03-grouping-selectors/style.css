@@ -1,0 +1,12 @@
+.yin, .yang {
+  font: 28px Helvetica, "Times New Roman", sans-serif;
+}
+
+.yin{
+  background-color: black;
+  color: white;
+}
+
+.yang{
+  background-color: yellow;
+}
